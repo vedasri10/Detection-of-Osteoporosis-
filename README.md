@@ -33,7 +33,5 @@ This project focuses on enhancing the early detection of osteoporosis in Para At
 1. Clone the repository
    ```bash
    git clone https://github.com/vedasri10/osteoporosis-detection.git
-cd osteoporosis-detection
-python detect_osteoporosis.py
 
 
