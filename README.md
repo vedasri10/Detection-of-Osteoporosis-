@@ -8,8 +8,6 @@ This project focuses on enhancing the early detection of osteoporosis in Para At
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- 
 - [Features](#features)
    ## Features
 
@@ -59,9 +57,23 @@ The proposed methodology demonstrated promising results, achieving high accuracy
 - ## Discussion
 
 The integration of CNNs with GAN segmentation proved effective in automating and streamlining the process of osteoporosis detection. The methodology addressed challenges specific to Para Athletes, providing a tailored approach for managing and preventing osteoporosis in this unique population.
-- [Contributing](#contributing)
-- [License](#license)
+
 - [Acknowledgments](#acknowledgments)
+- # Acknowledgments
+
+I would like to express our gratitude to the Kaggle community for providing the valuable dataset used in this project. The availability of diverse and well-curated data on Kaggle significantly contributed to the success of our research on improving early detection of osteoporosis in Para Athletes.
+
+## Dataset Information
+
+The dataset used in this project was obtained from Kaggle, a platform that facilitates access to a wide range of datasets for machine learning and data science projects. The collaborative nature of Kaggle and the generosity of contributors who share their datasets make it an invaluable resource for researchers and practitioners in the field.
+
+### Kaggle Dataset Citation
+
+- **Dataset Title:** [Knee X-Ray Data Sets](/kaggle/input/osteoporosis-knee-xray-dataset)
+
+## Contributors
+
+We would like to thank all the contributors to the Kaggle dataset for their efforts in collecting, preparing, and sharing the data. Their contributions play a crucial role in advancing research and fostering collaboration within the data science community.
 
 ## Getting Started
 
