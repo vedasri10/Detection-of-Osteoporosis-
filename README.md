@@ -10,9 +10,18 @@ This project focuses on enhancing the early detection of osteoporosis in Para At
 
 - [Introduction](#introduction)
 - [Features](#features)
-   -Utilizes a comprehensive approach with CNN and DXA tests for osteoporosis detection
-   -Improves early detection efficiency through the R-CNN algorithm
-   -Incorporates GAN segmentation for precise bone densitometry functionalities
+   ## Features
+
+- Utilizes a comprehensive approach with CNN and DXA tests for osteoporosis detection
+  - Integrates central DXA test for analyzing BMD
+  - Models a CNN for qualitative detection of BMD
+- Improves early detection efficiency through the R-CNN algorithm
+  - Proposes R-CNN for enhanced osteoporosis detection
+  - Reduces computation time compared to CNN alone
+- Incorporates GAN segmentation for precise bone densitometry functionalities
+  - Enhances the accuracy of feature extraction
+  - Segments bone images for improved analysis
+
 - [Usage](#usage)
 - [Methodology](#methodology)
 - [Results](#results)
