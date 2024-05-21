@@ -1,5 +1,5 @@
 pip install -r requirements.txt
-# Detection-of-Osteoporosis-
+# Osteoporosis Detection 
 # Improving Early Detection of Osteoporosis for Para Athletes
 
 ## Introduction
